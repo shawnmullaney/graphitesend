@@ -1,0 +1,14 @@
+0.4.0
+-----
+	* Switched to tox for testing
+	* Switched to a socket server for testing
+	* Adding coverage test
+	* Added coveralls.io link
+	* Few pep8/flake fixes
+	* Fixed missing pickle client
+
+0.3.5
+-----
+
+	* Added CHANGELOG
+	* Purge generated debian/* files from git
